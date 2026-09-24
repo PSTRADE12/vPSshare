@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Environment & secrets
+.env
+.env.*
+*.env
+!*.env.example
+flutter_session*
+telegram_sessions*
+sessions/
+
+# Editors & OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Logs & temp
+*.log
+*.tmp
+*.pid
+tmp/
+
+# Runtime data
+data/
+uploads/
+*.db
+*.sqlite3
+
+# Cloudflare
+cloudflared
+cloudflared.exe
+
+# Archives
+*.zip
+*.tar.gz
+*.tgz
