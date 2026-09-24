@@ -76,7 +76,7 @@ drag-and-drop uploads to the active folder, seekable video streaming, and
 ### 2. Installation
 
 ```bash
-git clone https://github.com/PSTECH/vps-share.git
+git clone https://github.com/PSTRADE12/vPSshare.git
 cd vps-share
 pip install -r requirements.txt
 ```
